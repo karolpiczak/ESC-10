@@ -1,3 +1,6 @@
+Waveforms and mel-spectrograms of selected recordings of the ESC-10 dataset:
+![Waveforms and mel-spectrograms of selected recordings of the ESC-10 dataset](https://github.com/karoldvl/ESC-10/raw/master/ESC-10.png "Waveforms and mel-spectrograms of selected recordings of the ESC-10 dataset")
+
 **001 - Dog bark**:
 - **1-100032-A.mp3**:       clip derived from [rose_bark.wav](http://www.freesound.org/people/nfrae/sounds/100032/) by *nfrae* ([CC0](http://creativecommons.org/publicdomain/zero/1.0/))
 - **1-110389-A.mp3**:       clip derived from [animals_dog_bark_springer_spaniel_001.wav](http://www.freesound.org/people/soundscalpel.com/sounds/110389/) by *soundscalpel.com* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
@@ -377,7 +380,7 @@
 - **5-234879-B.mp3**:       clip derived from [chickensMS.wav](http://www.freesound.org/people/leosalom/sounds/234879/) by *leosalom* ([CC0](http://creativecommons.org/publicdomain/zero/1.0/))
 
 **010 - Fire crackling**:
-- **1-17150-A.mp3**:        clip derived from [lg fire5.wav](http://www.freesound.org/people/lgarrett/sounds/17150/) by *lgarrett* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
+**1-17150-A.mp3**:        clip derived from [lg fire5.wav](http://www.freesound.org/people/lgarrett/sounds/17150/) by *lgarrett* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
 - **1-17565-A.mp3**:        clip derived from [fire.mp3](http://www.freesound.org/people/markfrancombe/sounds/17565/) by *markfrancombe* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
 - **1-17742-A.mp3**:        clip derived from [Fire_Crackles(No Room).wav](http://www.freesound.org/people/Krisboruff/sounds/17742/) by *Krisboruff* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
 - **1-17808-A.mp3**:        clip derived from [Foc.WAV](http://www.freesound.org/people/Everard/sounds/17808/) by *Everard* ([CC0](http://creativecommons.org/publicdomain/zero/1.0/))
