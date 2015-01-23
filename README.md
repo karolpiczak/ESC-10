@@ -1,8 +1,6 @@
 # ESC-10: An Open Dataset for Environmental Sound Classification
 
-[Overview](#overview) | [Download](#download) | [A peek inside](#a-peek-inside)| [License](#license)
-
-## Overview
+[Download](#download) | [A peek inside](#a-peek-inside) | [License](#license)
 
 The **ESC-10 dataset** is a labeled set of 400 environmental recordings (10 classes, 40 clips per class, 5 seconds per clip) suitable for environmental sound classification tasks. A larger dataset and a more detailed description should be available in due course.
 
@@ -42,6 +40,7 @@ The dataset can be downloaded as a single .zip file (~40 MB):
 ## A peek inside
 
 Waveforms and mel-spectrograms of ESC-10 dataset recordings:
+
 ![Waveforms and mel-spectrograms of ESC-10 dataset recordings](https://github.com/karoldvl/ESC-10/raw/master/ESC-10.png "Waveforms and mel-spectrograms of ESC-10 dataset recordings")
 
 ## License
@@ -429,7 +428,7 @@ Licensing details for individual clips:
 - **[5-234879-B.ogg](https://github.com/karoldvl/ESC-10/raw/master/009%20-%20Rooster/5-234879-B.ogg)**:       clip derived from [chickensMS.wav](http://www.freesound.org/people/leosalom/sounds/234879/) by *leosalom* ([CC0](http://creativecommons.org/publicdomain/zero/1.0/))
 
 **010 - Fire crackling**:
-**1-17150-A.ogg**:        clip derived from [lg fire5.wav](http://www.freesound.org/people/lgarrett/sounds/17150/) by *lgarrett* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
+- **[1-17150-A.ogg](https://github.com/karoldvl/ESC-10/raw/master/010%20-%20Fire%20crackling/1-17150-A.ogg)**:        clip derived from [lg fire5.wav](http://www.freesound.org/people/lgarrett/sounds/17150/) by *lgarrett* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
 - **[1-17565-A.ogg](https://github.com/karoldvl/ESC-10/raw/master/010%20-%20Fire%20crackling/1-17565-A.ogg)**:        clip derived from [fire.mp3](http://www.freesound.org/people/markfrancombe/sounds/17565/) by *markfrancombe* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
 - **[1-17742-A.ogg](https://github.com/karoldvl/ESC-10/raw/master/010%20-%20Fire%20crackling/1-17742-A.ogg)**:        clip derived from [Fire_Crackles(No Room).wav](http://www.freesound.org/people/Krisboruff/sounds/17742/) by *Krisboruff* ([CC-BY](http://creativecommons.org/licenses/by/3.0/))
 - **[1-17808-A.ogg](https://github.com/karoldvl/ESC-10/raw/master/010%20-%20Fire%20crackling/1-17808-A.ogg)**:        clip derived from [Foc.WAV](http://www.freesound.org/people/Everard/sounds/17808/) by *Everard* ([CC0](http://creativecommons.org/publicdomain/zero/1.0/))
