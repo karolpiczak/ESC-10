@@ -4,7 +4,7 @@
 
 The **ESC-10 dataset** is a labeled set of 400 environmental recordings (10 classes, 40 clips per class, 5 seconds per clip) suitable for environmental sound classification tasks. It is a subset of the larger **[ESC-50 dataset](https://github.com/karoldvl/ESC-50/)**.
 
-A paper with more detailed description and analysis should be available in due course.
+See **[ESC: Dataset for Environmental Sound Classification - paper replication data](https://github.com/karoldvl/paper-2015-esc-dataset)** for the full paper with a more thorough analysis.
 
 The dataset consists of 10 classes of recordings:
 - **[001 - Dog bark](https://github.com/karoldvl/ESC-10/tree/master/001%20-%20Dog%20bark)**
@@ -48,6 +48,12 @@ Waveforms and mel-spectrograms of ESC-10 dataset recordings:
 ## License
 
 The dataset is available under the terms of the [Creative Commons license](http://creativecommons.org/licenses/by/3.0/).
+
+In academic settings please cite:
+
+> K. J. Piczak. **ESC: Dataset for Environmental Sound Classification**. In *Proceedings of the ACM International Conference on Multimedia*, in press, ACM, 2015.
+
+> [DOI: http://dx.doi.org/10.1145/2733373.2806390]
 
 Licensing details for individual clips:
 
